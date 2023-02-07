@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/etc/apt/sources.list.d'
+let g:netrw_dirhist_6='/home/sobix/.oh-my-zsh'
+let g:netrw_dirhist_5='/home/sobix'
+let g:netrw_dirhist_4='/home/sobix/Code/poet/regex/pycon_regex'
+let g:netrw_dirhist_3='/home/sobix/Code/poet/regex'
+let g:netrw_dirhist_2='/home/sobix/Code/poet'
+let g:netrw_dirhist_1='/home/sobix/Code'
+let g:netrw_dirhist_0='/home/sobix/Code/poet'
+let g:netrw_dirhist_9='/home/sobix/Code'
+let g:netrw_dirhist_8='/home/sobix/Code/poet'
