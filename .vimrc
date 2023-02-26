@@ -1,3 +1,5 @@
+set ruler
+set nocompatible
 set nobackup
 set guifont=Ubuntu\ Mono\ 11
 set cpt-=t
@@ -10,8 +12,7 @@ set guioptions -=T
 set guioptions -=r
 
 
-set ruler
-set nocompatible              "Latest Vim Settings
+              "Latest Vim Settings
 autocmd VimEnter * echo "Without Gre@t SOLITUDE no Serious work is possible./"
 so ~/.vim/plugins.vim
 so ~/.vim/addon.vim
