@@ -9,7 +9,7 @@ vim.cmd "so ~/.config/nvim/plugins.vim"
 vim.cmd "so ~/.config/nvim/addon.vim"
 
 -----Visuals-----
-vim.cmd "colorscheme  farout" --archery farout phosphor ayu papaya_original monochrome nord hybrid_material"
+vim.cmd "colorscheme  farout" --archery ron phosphor ayu papaya_original monochrome nord hybrid_material"
 vim.cmd "set t_CO=256"
 vim.cmd "syntax on"
 vim.cmd "syntax enable"
